@@ -1,5 +1,5 @@
 <script setup>
-//azi maine
+//azi maine alt comp
 import { RouterLink, RouterView } from 'vue-router'
 </script>
 
